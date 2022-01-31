@@ -19,7 +19,6 @@ namespace WebApiProject1.Controllers
 
             return ("1 fortnights at $5.50/FN = $5.50 CAD "+ "HST 13 % = $0.72 CA Total= " + " " + total);
 
-            //hello//
         }
 
     }
